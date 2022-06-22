@@ -1,0 +1,12 @@
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
+      <div class="align-items-center d-none d-md-flex">
+        <i class="bi bi-clock"></i> Monday - Saturday, 8AM to 10PM
+      </div>
+
+      <div class="d-flex align-items-center">
+        <i class="bi bi-phone"></i> <a href="tel:+201020036341" style="color: #fff">Call us now 01020036341</a>
+      </div>
+    </div>
+  </div>
